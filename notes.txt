@@ -1,0 +1,5 @@
+add mouseover feature and text inviting them to click on the icons
+round out the thumbnails?
+add thumbnail titles
+add page icon at the top tab
+add stats project to internship section
