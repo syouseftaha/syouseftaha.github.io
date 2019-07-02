@@ -1,14 +1,11 @@
-add mouseover feature and text inviting them to click on the icons
-round out the thumbnails?
-add thumbnail titles
-add page icon at the top tab
 add stats project to internship section
 add resume + other maps
-mention data management
-alt text (captions)
-click on images to open
+
 background pic
 bigger pics
 change fonts!
 
-https://www.w3schools.com/howto/howto_css_image_overlay.asp
+background pic
+fix other iframe
+overlay fade?
+thumbnail titles?
