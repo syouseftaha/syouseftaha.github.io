@@ -1,4 +1,3 @@
-add stats project to internship section
 add resume + other maps
 
 background pic
@@ -6,6 +5,5 @@ bigger pics
 change fonts!
 
 background pic
-fix other iframe
+fix iframe
 overlay fade?
-thumbnail titles?
