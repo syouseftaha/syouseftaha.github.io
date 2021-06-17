@@ -1,9 +1,0 @@
-add resume + other maps
-
-background pic
-bigger pics
-change fonts!
-
-background pic
-fix iframe
-overlay fade?
